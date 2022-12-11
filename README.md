@@ -1,6 +1,5 @@
 # Restaurant List
 
-![Index page about Restaurant List](./public/image/snapshot.png)
 專案介紹
 AlphaCamp 學期 2-3 W1 / A1:我的餐廳清單 
 
