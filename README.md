@@ -2,7 +2,7 @@
 
 ![Index page about Restaurant List](./public/restaurant_list.png)
 
-AlphaCamp 學期 2-3 W1 / A1:我的餐廳清單 專案
+AlphaCamp 學期 2-3 W1 / A1專案:我的餐廳清單 
 
 ## 🎯專案功能
 
