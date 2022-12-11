@@ -1,7 +1,6 @@
 # Restaurant List
 
-專案介紹
-AlphaCamp 學期 2-3 W1 / A1:我的餐廳清單 
+AlphaCamp 學期 2-3 W1 / A1:我的餐廳清單 專案
 
 ## 🎯專案功能
 
