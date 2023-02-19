@@ -1,6 +1,6 @@
 # Restaurant List
 
-![Index page about Restaurant List](./public/restaurant_list.png)
+![Index page about Restaurant List](./public/alphashop_basic_cart.png)
 
 AlphaCamp 學期 2-3 W1 / A1專案:我的餐廳清單 
 
